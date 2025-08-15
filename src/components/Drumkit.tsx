@@ -36,7 +36,7 @@ export default function DrumKit() {
       const audio = new Audio(audioSrc);
       audio.play();
     } else {
-      alert("Invalid key!");
+      alert("Invalid key!!");
     }
   };
 
